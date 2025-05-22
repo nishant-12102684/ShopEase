@@ -1,0 +1,8 @@
+com\shopease\registration\controller\UserController.class
+com\shopease\registration\exception\RegistrationException.class
+com\shopease\registration\service\UserService.class
+com\shopease\registration\RegistrationServiceApplication.class
+com\shopease\registration\model\User.class
+com\shopease\registration\config\SecurityConfig.class
+com\shopease\registration\model\UserRole.class
+com\shopease\registration\repository\UserRepository.class

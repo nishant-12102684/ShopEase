@@ -1,0 +1,8 @@
+com\shopease\product\service\ProductService.class
+com\shopease\product\controller\ProductController.class
+com\shopease\product\ProductServiceApplication.class
+com\shopease\product\exception\ErrorResponse.class
+com\shopease\product\exception\GlobalExceptionHandler.class
+com\shopease\product\repository\ProductRepository.class
+com\shopease\product\exception\ProductNotFoundException.class
+com\shopease\product\entity\Product.class

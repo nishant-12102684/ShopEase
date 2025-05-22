@@ -1,0 +1,10 @@
+com\shopease\cart\CartServiceApplication.class
+com\shopease\cart\entity\CartItem.class
+com\shopease\cart\controller\CartController.class
+com\shopease\cart\exception\CartItemNotFoundException.class
+com\shopease\cart\repository\ShoppingCartRepository.class
+com\shopease\cart\exception\GlobalExceptionHandler.class
+com\shopease\cart\service\CartService.class
+com\shopease\cart\repository\CartRepository.class
+com\shopease\cart\entity\ShoppingCart.class
+com\shopease\cart\exception\ErrorResponse.class

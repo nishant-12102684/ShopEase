@@ -1,0 +1,4 @@
+2025-05-23T00:00:27.468+05:30  INFO 15640 --- [registration-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-05-23T00:06:12.638+05:30  INFO 15640 --- [registration-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-05-23T00:11:12.708+05:30  INFO 15640 --- [registration-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-05-23T00:16:12.770+05:30  INFO 15640 --- [registration-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

@@ -1,0 +1,10 @@
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\exception\ErrorResponse.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\repository\ShoppingCartRepository.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\CartServiceApplication.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\exception\CartItemNotFoundException.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\service\CartService.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\repository\CartRepository.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\entity\CartItem.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\controller\CartController.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\exception\GlobalExceptionHandler.java
+E:\Shopease\cart-service\src\main\java\com\shopease\cart\entity\ShoppingCart.java

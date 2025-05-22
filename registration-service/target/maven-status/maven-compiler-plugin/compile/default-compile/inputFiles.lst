@@ -1,0 +1,8 @@
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\config\SecurityConfig.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\controller\UserController.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\exception\RegistrationException.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\model\User.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\model\UserRole.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\RegistrationServiceApplication.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\repository\UserRepository.java
+E:\Shopease\registration-service\src\main\java\com\shopease\registration\service\UserService.java
